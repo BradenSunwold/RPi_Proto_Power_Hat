@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RaspberryPiProtoHat-rescue)(type Legacy)(uri ${KIPRJMOD}/RaspberryPiProtoHat-rescue.lib)(options "")(descr ""))
+  (lib (name dk_Transistors-Bipolar-BJT-Arrays)(type Legacy)(uri /Users/bradensunwold/Documents/Kicad/Third_Party_Libs/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Arrays.lib)(options "")(descr ""))
+)
